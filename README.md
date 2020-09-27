@@ -1,2 +1,2 @@
 # data_analysis
-a repository to show data analysis project
+This reposity is some personal part-time  project about data analysis
